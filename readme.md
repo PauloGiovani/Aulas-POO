@@ -1,6 +1,6 @@
 # Arquivos da Aula POO :smiley:
 
-Este repositório contém os arquivos referentes aos códigos e exercícios desenvolvidos na aula de <span style="color:red;font-weight:bold;">Programação Orientada a Objetos</span>, ministrada pelo Prof. Paulo Giovani.
+Este repositório contém os arquivos referentes aos códigos e exercícios desenvolvidos na aula de *Programação Orientada a Objetos*, ministrada pelo Prof. Paulo Giovani.
 
 Ele contém a seguinte estrutura:
 
