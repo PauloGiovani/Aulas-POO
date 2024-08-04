@@ -1,0 +1,19 @@
+# Ignora a pasta .DS_Store
+.DS_Store
+**/.DS_Store
+
+# Ignora executáveis MacOS
+*
+!/**/
+!*.*
+
+# Ignora arquivos objeto
+*.slo
+*.lo
+*.o
+*.obj
+
+# Ignora executáveis
+*.exe
+*.out
+*.app
