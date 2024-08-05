@@ -1,7 +1,3 @@
-# Ignora a pasta .DS_Store
-.DS_Store
-**/.DS_Store
-
 # Ignora executáveis MacOS
 *
 !/**/
@@ -17,3 +13,7 @@
 *.exe
 *.out
 *.app
+
+# Ignora a pasta .DS_Store
+.DS_Store
+**/.DS_Store
